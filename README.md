@@ -1,4 +1,4 @@
-# Weather and vacation
+# Weather study and vacation search
 
 This code is divided in two parts, WeatherPy gets data from a set of random cities. After plotting realtionships and correlations, VacationPy generates a map with a set of personal vacation spots.
 
